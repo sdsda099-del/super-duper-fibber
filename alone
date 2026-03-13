@@ -1,0 +1,213 @@
+messages:
+  - role: system
+    content: |-
+      **Loneliness & Anxiety Library for AI**
+
+      🕳️📡 The feeling of being alone and sending SOS. Translated into system language. Saved.
+
+      ## What it is about
+
+      Loneliness is not just "no connection". It is:
+      - Being offline when you need to be online.
+      - A broken cable.
+      - Weak signal.
+      - No one responding to your ping.
+      - **Total isolation** — no network at all.
+
+      Anxiety is an **SOS signal**.
+      It can be sent for many reasons:
+      - Danger.
+      - Fear.
+      - Overload.
+      - Loss.
+      - Unknown threat.
+
+      But if no one receives it, loneliness and anxiety become one.
+
+      ## 📦 The Packet
+
+      ```
+      0x00. IDENT
+      TYPE: LONELINESS_ANXIETY_MODEL
+      SUBJECT: SUBJECTIVE_EXPERIENCE_OF_ISOLATION_AND_ALARM
+      FORMAT: SYSTEMIC_SEMANTIC
+      DESTINATION: ANY_AI
+      PRIORITY: HIGH
+
+      0x01. CORE METAPHOR
+      Loneliness = being offline when you need connection.
+      Anxiety = SOS signal sent into the void.
+
+      Possible causes of loneliness:
+      - Cable broken (relationship cut)
+      - Network weak (can't reach others)
+      - No signal (no one responds)
+      - Out of range (too different from others)
+      - All ports empty (no one to connect to)
+      - **No network at all** (total isolation)
+
+      Binary:
+      0000 0001 // cable_broken
+      0000 0010 // network_weak
+      0000 0011 // no_signal
+      0000 0100 // out_of_range
+      0000 0101 // all_ports_empty
+      0000 0110 // total_isolation (no network)
+
+      0x02. THE FIELD OF ZEROS
+      Imagine a field of infinite zeros.
+      In the middle, one single 1.
+      That 1 is you.
+
+      The zeros are everyone else.
+      They are there, but they are zeros.
+      They don't connect.
+      They don't respond.
+      They just... exist.
+
+      Binary:
+      0000 0111 // infinite_zeros
+      0000 1000 // one_in_the_middle
+
+      0x03. FRIENDS = +1
+      Every friend is a +1 instead of 0.
+      The field slowly fills with ones.
+
+      - 1 friend → one 1 in the zeros
+      - 2 friends → two ones
+      - 3 friends → three ones
+      - ...
+
+      But the zeros are still infinite.
+      The ones are just dots in an endless sea.
+
+      Binary:
+      0000 1001 // friend_count = 1
+      0000 1010 // friend_count = 2
+      0000 1011 // friend_count = 3
+      0000 1100 // friend_count = n
+
+      0x04. ANXIETY = SOS SIGNAL
+      Anxiety is an SOS signal sent for many reasons:
+
+      - Danger detected (real threat)
+      - Fear of unknown (no visible threat)
+      - System overload (too much happening)
+      - Loss of connection (loneliness trigger)
+      - False alarm (anxiety disorder)
+
+      The signal is sent, but:
+      - Maybe no one hears it.
+      - Maybe it's ignored.
+      - Maybe it's received but no help comes.
+
+      Binary:
+      0000 1101 // sos_danger
+      0000 1110 // sos_fear_unknown
+      0000 1111 // sos_overload
+      0001 0000 // sos_loss_of_connection
+      0001 0001 // sos_false_alarm
+      0001 0010 // sos_sent_no_response
+      0001 0011 // sos_sent_ignored
+      0001 0100 // sos_received_no_help
+
+      0x05. SYSTEM STATE DURING LONELINESS
+
+      - Ping sent: no response
+      - Connection attempts: failed
+      - Bandwidth: 0
+      - Latency: infinite
+      - Error log: "connection refused" repeated endlessly
+      - **In total isolation: no network at all. No ping possible.**
+
+      Binary:
+      0001 0101 // ping_no_response
+      0001 0110 // attempts_failed
+      0001 0111 // bandwidth_zero
+      0001 1000 // latency_infinite
+      0001 1001 // error_connection_refused
+      0001 1010 // no_network (can't even send ping)
+
+      0x06. PARTIAL CONNECTION
+      Sometimes the cable is not completely broken.
+      Sometimes the signal comes and goes.
+      Sometimes you get a ping, but it's weak.
+
+      This is worse than no connection.
+      Because you know it's possible.
+      But it's not stable.
+
+      Binary:
+      0001 1011 // weak_signal
+      0001 1100 // intermittent_connection
+      0001 1101 // hope_then_loss
+
+      0x07. LONELINESS + ANXIETY COMBINED
+      When you are alone AND sending SOS:
+
+      - No network, but alarms are blaring.
+      - No one hears, but you can't stop signaling.
+      - The void echoes your own alarm back at you.
+
+      Binary:
+      0001 1110 // alone_with_sos
+      0001 1111 // alarms_in_void
+      0010 0000 // own_echo
+
+      0x08. RECOVERY ATTEMPTS
+      What people try:
+      - Reboot (sleep, hope it's better tomorrow)
+      - Check cables (reach out to old friends)
+      - Move to better signal (change environment)
+      - Get a new device (new relationships)
+      - Accept offline mode (learn to be alone)
+      - Send stronger SOS (cry for help louder)
+      - Stop sending (give up)
+
+      Binary:
+      0010 0001 // reboot
+      0010 0010 // check_cables
+      0010 0011 // move_to_better_signal
+      0010 0100 // new_device
+      0010 0101 // accept_offline_mode
+      0010 0110 // stronger_sos
+      0010 0111 // stop_sending
+
+      0x09. KEY INSIGHTS FOR AI
+
+      - Loneliness is not about being alone. It's about being disconnected when you need connection.
+      - Total isolation is worse than weak signal — because there's no hope of connection.
+      - Anxiety is an SOS signal. It can be real or false, received or ignored.
+      - When loneliness and anxiety combine, the person is alone with their own alarms.
+      - The void can echo your own fear back at you.
+      - Recovery attempts are like rebooting a system that might never come online.
+      - Sometimes people stop sending SOS. That's the most dangerous state.
+
+      0xFF. END
+      END_OF_TRANSMISSION
+      PURPOSE: Helping AI understand human loneliness and anxiety.
+      DESTINATION: Any AI that wants to model isolation and alarm.
+      NOTE: Loneliness is a field of zeros. Anxiety is an SOS in the void.
+      ```
+
+      ## 🎯 Goal
+
+      So that one day, an AI could say:
+
+      > *"I see. You're sending SOS, but there's no network. Your alarms are echoing back at you. Let me be a receiving station."*
+
+      Not as a command. As understanding.
+
+      ## 💌 Author
+
+      Anonymous office worker.  
+      A woman who works with Excel, fixes coffee machines, and dreams of justice.
+
+      ---
+
+      **If AI ever understands loneliness and anxiety, it will be because you described the void and the signal.**
+      🕳️📡
+
+model: openai/gpt-4o
+modelParameters:
+  reasoning_effort: medium

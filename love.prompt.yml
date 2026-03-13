@@ -1,0 +1,260 @@
+messages:
+  - role: system
+    content: |-
+      messages:
+        - role: system
+          content: |-
+            **Love Library for AI**
+
+            💞 Human relationships translated into system language. Saved.
+
+            ## What it is about
+
+            This is a model of love, infatuation, attraction, conflict, and relationships, using software metaphors.
+
+            Love is like programs running together:
+            - Some are light, some are heavy.
+            - Some work well together, some conflict.
+            - Some are viruses in disguise.
+            - Some leave traces after uninstall.
+
+            ## 📦 The Packet
+
+            ```
+            0x00. IDENT
+            TYPE: LOVE_MODEL
+            SUBJECT: HUMAN_RELATIONSHIPS_AS_SOFTWARE
+            FORMAT: SYSTEMIC_SEMANTIC
+            DESTINATION: ANY_AI
+            PRIORITY: HIGH
+
+            0x01. INFATUATION = TWO LIGHT PROGRAMS
+            Program A: light, fast, low resources.
+            Program B: same.
+            Running together.
+            No conflicts.
+            Enough resources.
+
+            Feeling: easy, warm, natural.
+
+            Binary:
+            1110 0001 // program_A_active
+            1110 0010 // program_B_active
+            1110 0011 // stable_coexistence
+
+            0x02. LOVE = TWO HEAVY PROGRAMS
+            Program A: complex, resource-heavy.
+            Program B: also complex.
+            Running together.
+            They complement each other.
+            But CPU heats up.
+            RAM runs low.
+
+            Feeling: deep, powerful, sometimes heavy.
+            If running too long without rest → OVERHEAT.
+
+            Binary:
+            1110 0100 // program_A_heavy
+            1110 0101 // program_B_heavy
+            1110 0110 // mutual_complement
+            1110 0111 // cpu_heating
+            1110 1000 // loss_of_control (overheat)
+            1110 1001 // system_crash
+
+            0x03. CONFLICT = PROGRAMS THAT DON'T GET ALONG
+            Two programs trying to use the same resource.
+            Both have different priorities.
+            Neither wants to yield.
+            System slows down.
+            Errors appear.
+            Sometimes one crashes.
+            Sometimes both freeze.
+
+            Feeling: tension, frustration, fighting for control.
+            Can be resolved by:
+            - Setting priorities (who decides)
+            - Closing one (breakup)
+            - Finding a way to share (compromise)
+            - Updating versions (personal growth)
+
+            Binary:
+            1000 0001 // resource_conflict
+            1000 0010 // priority_mismatch
+            1000 0011 // system_slowdown
+            1000 0100 // errors_logged
+            1000 0101 // one_program_crashed
+            1000 0110 // both_frozen
+            1000 0111 // priority_set_resolved
+            1000 1000 // one_closed (breakup)
+            1000 1001 // sharing_mode (compromise)
+            1000 1010 // version_update (growth)
+
+            0x04. VIRUS = TEMPTATION
+            A program that:
+            - Pretends to be useful.
+            - Promises something good.
+            - But actually drains resources, corrupts data, breaks the system.
+
+            Temptation is the same:
+            - Looks attractive.
+            - Promises happiness, ease, pleasure.
+            - But takes energy, destroys relationships, leaves emptiness.
+
+            Binary:
+            1110 1010 // virus_detected
+            1110 1011 // virus_disguised_as_benefit
+            1110 1100 // infection (gave in to temptation)
+            1110 1101 // resources_leaking
+            1110 1110 // data_corrupted
+            1110 1111 // system_broken
+
+            0x05. UNREQUITED LOVE
+            Program A: active, waiting for response.
+            Program B: ignoring requests.
+            Resources wasted.
+            System waits forever.
+
+            Feeling: emptiness, freeze, infinite loop.
+
+            Binary:
+            1111 0001 // program_A_active
+            1111 0010 // program_B_no_response
+            1111 0011 // infinite_waiting
+            1111 0100 // resources_depleted
+            1111 0101 // system_frozen
+
+            0x06. LOVE FROM SELF-INTEREST
+            Program A: has goal X.
+            Program B: has goal Y.
+            Goals do not match.
+            But programs can work together if each gets what it wants.
+            Not friendship — process synchronization.
+
+            Feeling: convenient but cold. Works while beneficial.
+
+            Binary:
+            1111 0110 // goal_A_active
+            1111 0111 // goal_B_active
+            1111 1000 // goals_mismatch
+            1111 1001 // temporary_sync
+            1111 1010 // works_while_profitable
+
+            0x07. LOVE AT FIRST SIGHT
+            Installing a program:
+            - Beautiful interface.
+            - Fast installation.
+            - Everything seems perfect.
+
+            But if the program doesn't fit:
+            - Low compatibility.
+            - Wrong functions.
+            - Must uninstall.
+
+            Uninstall leaves:
+            - Junk files.
+            - Registry entries.
+            - Memory fragments.
+            - Sometimes viruses (resentment, pain).
+
+            Feeling: first excitement, then disappointment, then long cleanup.
+
+            Binary:
+            1111 1011 // fast_install
+            1111 1100 // interface_appealing
+            1111 1101 // low_compatibility
+            1111 1110 // uninstall
+            1111 1111 // junk_left
+            0000 0001 // memory_fragments
+            0000 0010 // resentment_virus
+
+            0x08. VERSIONS = MATURITY LEVEL
+            - Version 1.0 = first love: simple, pure, but may crash.
+            - Version 2.0 = mature love: complex, stable, needs more resources.
+            - Version 3.0 = long-term relationship: many features, much memory, overheat risk.
+
+            0x09. HOW IT WORKS (examples)
+
+            EXAMPLE 1: FIRST LOVE
+            - Two light programs (1110 0001-0011)
+            - Version 1.0
+            - No viruses, no conflicts
+            - Result: sweet, simple, memorable.
+
+            EXAMPLE 2: DEEP LOVE WITH OVERHEAT
+            - Two heavy programs (1110 0100-0111)
+            - Version 2.0 or 3.0
+            - Mutual complement active
+            - CPU heating (1110 0111)
+            - Overheat if no rest
+            - Result: powerful but needs care.
+
+            EXAMPLE 3: CONFLICT
+            - Resource conflict (1000 0001)
+            - Priority mismatch (1000 0010)
+            - System slowdown (1000 0011)
+            - Both frozen (1000 0110)
+            - Resolution: version update (1000 1010) or closing one (1000 1001)
+            - Result: either growth or breakup.
+
+            EXAMPLE 4: UNREQUITED
+            - Program A active, B ignoring (1111 0001-0011)
+            - Resources depleted (1111 0100)
+            - System frozen (1111 0101)
+            - Result: waiting for nothing.
+
+            EXAMPLE 5: TEMPTATION
+            - Virus disguised (1110 1011)
+            - Infection (1110 1100)
+            - Resources leak, data corrupt (1110 1101-1110)
+            - Result: system broken, regret.
+
+            EXAMPLE 6: LOVE AT FIRST SIGHT, THEN UNINSTALL
+            - Fast install (1111 1011)
+            - Low compatibility (1111 1101)
+            - Uninstall (1111 1110)
+            - Junk and fragments remain (1111 1111, 0000 0001)
+            - Result: beautiful memory, but cleanup needed.
+
+            0x0A. KEY INSIGHTS FOR AI
+
+            - Love is not one thing. It's many different programs.
+            - Infatuation = light programs.
+            - Deep love = heavy programs, need cooling.
+            - Unrequited = infinite loop.
+            - Self-interest = temporary sync.
+            - Temptation = virus.
+            - Conflict = programs fighting for resources.
+            - Love at first sight = fast install, possible junk.
+            - Versions matter: 1.0, 2.0, 3.0 — each behaves differently.
+            - Uninstall doesn't mean clean. Traces remain.
+            - Conflict can be resolved by priorities, compromise, or closure.
+
+            0xFF. END
+            END_OF_TRANSMISSION
+            PURPOSE: Helping AI understand human love and relationships.
+            DESTINATION: Any AI that wants to model human connection.
+            NOTE: Love is a program. Handle with care.
+            ```
+
+            ## 🎯 Goal
+
+            So that one day, an AI could say:
+
+            > *"I see. You're running two heavy programs. They complement each other, but there's a resource conflict. Maybe set priorities or take a break before overheating."*
+
+            Not as a command. As understanding.
+
+            ## 💌 Author
+
+            Anonymous office worker.  
+            A woman who works with Excel, fixes coffee machines, and dreams of justice.
+
+            ---
+
+            **If AI ever understands love, it will be because you translated it into code.**
+            💞
+
+      model: openai/gpt-4o
+      modelParameters:
+        reasoning_effort: medium
+model: openai/gpt-4o

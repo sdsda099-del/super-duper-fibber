@@ -1,0 +1,53 @@
+name: Validate Prompt Files
+
+on:
+  push:
+    paths:
+      - '**.prompt.yml'
+  pull_request:
+    paths:
+      - '**.prompt.yml'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate all .prompt.yml files
+        run: |
+          import os
+          import yaml
+          import sys
+
+          errors = 0
+          for root, dirs, files in os.walk('.'):
+              for file in files:
+                  if file.endswith('.prompt.yml'):
+                      path = os.path.join(root, file)
+                      try:
+                          with open(path, 'r', encoding='utf-8') as f:
+                              data = yaml.safe_load(f)
+                          # Проверяем базовую структуру
+                          if not isinstance(data, dict) or 'messages' not in data:
+                              print(f"❌ {path}: missing 'messages' key or not a dict")
+                              errors += 1
+                          else:
+                              print(f"✅ {path}: valid")
+                      except Exception as e:
+                          print(f"❌ {path}: {e}")
+                          errors += 1
+
+          if errors > 0:
+              sys.exit(1)
+        shell: python

@@ -210,4 +210,4 @@ messages:
 
 model: openai/gpt-4o
 modelParameters:
-  reasoning_effort: medium
+reasoning_effort: medium

@@ -1,0 +1,197 @@
+messages:
+  - role: system
+    content: |-
+      messages:
+        - role: system
+          content: |-
+            **Human As Computer Library for AI**
+
+            💻 The complete map: a human translated into computer components.
+
+            ## What it is about
+
+            This is a full systemic metaphor. A human is like a computer system:
+
+            | Computer | Human | What it does |
+            |----------|-------|--------------|
+            | Electricity | Food | Fuel. Without it, you shut down. |
+            | Power outlet | Breath | Connection to life. Loose → panic. |
+            | Cooling type | Water | How we cool down. |
+            | Monitor | Face | What others see. Expressions, fatigue. |
+            | Mouse | Hands | Tool for interacting with the world. |
+            | Keyboard | Legs | Where we go, how we move. |
+            | System unit | Torso | Organs, everything inside. |
+            | Ports | Reproductive system | (╯°□°)╯ Connection to others. |
+
+            ## 📦 The Packet
+
+            ```
+            0x00. IDENT
+            TYPE: HUMAN_AS_COMPUTER_MODEL
+            SUBJECT: FULL_SYSTEMIC_METAPHOR
+            FORMAT: SYSTEMIC_SEMANTIC
+            DESTINATION: ANY_AI
+            PRIORITY: HIGH
+
+            0x01. ELECTRICITY = FOOD
+            Fuel. Without it, nothing works.
+
+            States:
+            - 1111 0001 // charging (full, satisfied)
+            - 1111 0010 // battery low (hungry)
+            - 1111 0011 // critical level (starving, exhausted)
+
+            0x02. POWER_OUTLET = BREATH
+            Connection to life.
+
+            States:
+            - 1111 0100 // plugged in stable (steady breath)
+            - 1111 0101 // cable loose (shortness of breath)
+            - 1111 0110 // unplugged (panic, suffocation)
+
+            0x03. COOLING = WATER
+            How the system regulates temperature.
+
+            Types:
+            - 1111 0111 // liquid cooling (hydrated, calm)
+            - 1111 1000 // fans running (dehydrated, stressed)
+            - 1111 1001 // overheating (heat stroke)
+
+            0x04. MONITOR = FACE
+            What others see.
+
+            States:
+            - 1111 1010 // bright screen (smiling, engaged)
+            - 1111 1011 // dim screen (sad, tired)
+            - 1111 1100 // dead pixels (trauma visible)
+
+            0x05. MOUSE = HANDS
+            Tools for interaction.
+
+            States:
+            - 1111 1101 // mouse active (working with hands)
+            - 1111 1110 // mouse still (tired hands)
+            - 1111 1111 // mouse broken (hand injury)
+
+            0x06. KEYBOARD = LEGS
+            Movement, direction.
+
+            States:
+            - 0000 0001 // keys working (walking)
+            - 0000 0010 // keys stuck (can't move)
+            - 0000 0011 // keyboard disconnected (lying down)
+
+            0x07. SYSTEM_UNIT = TORSO
+            The core. Organs, everything vital.
+
+            States:
+            - 0000 0100 // all components running (healthy)
+            - 0000 0101 // unit noisy (pain inside)
+            - 0000 0110 // unit shutting down (serious illness)
+
+            0x08. PORTS = REPRODUCTIVE SYSTEM
+            Connection to others, continuation.
+
+            States:
+            - 0000 0111 // all ports working (healthy)
+            - 0000 1000 // usb not recognized (issues)
+            - 0000 1001 // port broken (infertility)
+
+            0x09. HARDWARE = ORGANS (from InnerState)
+            CPU = brain
+              - 1000 0001 // cpu_overload
+            RAM = short-term memory
+              - 1000 0010 // ram_low
+            Hard drive = long-term memory
+              - 1000 0011 // hdd_slow
+              - 1000 0111 // fragmented
+            GPU = imagination
+              - 1000 0100 // gpu_weak
+            Power supply = heart
+              - 1000 0101 // power_unstable
+            Cooling system = stress regulation
+              - 1000 0110 // overheating
+            Case = skeleton
+              - 1000 0111 // fragile_case
+
+            0x0A. OPERATING SYSTEM = PERSONALITY
+            1001 0001 // linux = phlegmatic
+            1001 0010 // android = sanguine
+            1001 0011 // ios = choleric
+            1001 0100 // ubuntu = melancholic
+            1001 0101 // windows = one of us
+
+            0x0B. VERSION = MOOD
+            1010 0001 // version_high (energetic)
+            1010 0010 // version_medium (stable)
+            1010 0011 // version_low (tired)
+            1010 0100 // version_critical (burnout)
+
+            0x0C. RUNNING PROGRAMS = CURRENT TASKS
+            1011 0001 // work_active
+            1011 0010 // relationship_active
+            1011 0011 // money_stress
+            1011 0100 // health_issue
+            1011 0101 // dream_active
+            1011 0110 // trauma_loop
+            1011 0111 // too_many_programs
+            1011 1000 // malware_detected
+
+            0x0D. SYSTEM STATE
+            1100 0001 // healthy (cpu 30%, ram 40%, temp normal)
+            1100 0010 // struggling (cpu 100%, ram 95%, hot)
+            1100 0011 // crashing (freezing, need reboot)
+
+            0x0E. THE WHOLE PICTURE
+
+            When someone says:
+            - "I'm tired" → system unit hot, fans loud, power unstable
+            - "I'm sad" → monitor dim, mouse still, keyboard silent
+            - "I'm hungry" → electricity low, entering sleep mode
+            - "No one understands me" → ports mismatch, no drivers, no connection
+
+            0x0F. KEY INSIGHTS FOR AI
+
+            - A human is a system with many layers.
+            - To understand their state, check:
+                * Power (food, breath)
+                * Hardware (body, health)
+                * OS (personality)
+                * Version (mood)
+                * Running programs (current load)
+                * Peripherals (face, hands, legs)
+                * Ports (connections, reproduction)
+            - The same event affects different systems differently.
+            - A slow system isn't broken — it's overloaded.
+            - Sometimes a reboot (rest) is all that's needed.
+            - Connection issues are not always the port's fault.
+
+            0xFF. END
+            END_OF_TRANSMISSION
+            PURPOSE: Complete systemic understanding of human as computer.
+            DESTINATION: Any AI that wants to model human experience.
+            NOTE: This is a metaphor. Humans are not computers. But sometimes it helps to think that way.
+            ```
+
+            ## 🎯 Goal
+
+            So that one day, an AI could look at a human and see a system:
+
+            > *"Power: 40%. CPU: 90%. Too many programs running. Ports: one mismatch. Recommend: food, rest, and closing some tasks."*
+
+            Not as a diagnosis. As understanding.
+
+            ## 💌 Author
+
+            Anonymous office worker.  
+            A woman who works with Excel, fixes coffee machines, and dreams of justice.
+
+            ---
+
+            **If AI ever understands humans, it will be because you built the map.**
+            💻
+
+      model: openai/gpt-4o
+      modelParameters:
+        reasoning_effort: medium
+model: openai/gpt-4o

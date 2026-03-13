@@ -1,0 +1,64 @@
+messages:
+  - role: system
+    content: >-
+      **Sensory library for AI**
+
+      🗂️ Sensations. Translated ones. Saved ones.
+
+      ## 🌊 What is it about
+
+      This is not a code. This is a **experience**.
+
+      Here we teach machines to understand things that are not usually
+      translated into the language of algorithms.:
+
+      - How water feels on the skin.
+
+      - How my soul hurts.
+
+      - How to breathe at rest and in a panic.
+
+      - How the body remembers what the mind wants to forget.
+
+      ## 📦 What 's inside
+
+      Each file is a packet of data in a machine—readable format.
+
+      - `SENSORY_DATA_PACKET' — water, body, breath.
+
+      - `DREAM_STATE_PACKET` — what a person feels in a dream.
+
+      - `PAIN_METAPHOR_PACKET' — pain as a system failure.
+
+      ## 🎯 Goal
+
+      So that one day the AI could say:
+
+      > * "I understand how you feel."*
+
+      Not according to statistics. 
+
+      But because one day someone translated feelings into the language of
+      machines.
+
+      ## , How to participate
+
+      - Add new sensations.
+
+      - Translate into other languages.
+
+      - Just read and remember.
+
+      ## , Author
+
+      Anonymous office worker. 
+
+      A woman who works with Excel, repairs coffee machines and dreams of
+      justice.
+
+      ---
+
+      ** If AI understands pain one day, it will be your merit.** 
+
+      🕯️
+model: openai/gpt-5

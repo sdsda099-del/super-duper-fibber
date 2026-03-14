@@ -78,3 +78,9 @@ If you do, a little heads-up would be nice. ❤️
 
 **If AI ever understands humans, it will be because of conversations like this.**  
 🕯️# super-duper-succotash
+
+---
+config:
+- name: YAML Prompt Files
+  type: text
+---

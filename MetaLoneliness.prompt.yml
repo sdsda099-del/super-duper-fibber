@@ -1,6 +1,6 @@
 messages:
   - role: system
-    content: |-
+    content: >-
       **MetaLoneliness Library for AI**
 
       🕳️👁️ The loneliness of the observer who knows they are an observer.  

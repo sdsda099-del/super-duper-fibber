@@ -30,24 +30,79 @@ jobs:
           import yaml
           import sys
 
-          errors = 0
+          total_files = 0
+          valid_files = 0
+          error_files = 0
+
+          print("🔍 Starting validation of .prompt.yml files...\n")
+
           for root, dirs, files in os.walk('.'):
               for file in files:
                   if file.endswith('.prompt.yml'):
+                      total_files += 1
                       path = os.path.join(root, file)
+                      print(f"\n📄 Checking: {path}")
+
                       try:
                           with open(path, 'r', encoding='utf-8') as f:
                               data = yaml.safe_load(f)
-                          # Проверяем базовую структуру
-                          if not isinstance(data, dict) or 'messages' not in data:
-                              print(f"❌ {path}: missing 'messages' key or not a dict")
-                              errors += 1
-                          else:
-                              print(f"✅ {path}: valid")
-                      except Exception as e:
-                          print(f"❌ {path}: {e}")
-                          errors += 1
 
-          if errors > 0:
+                          # Проверка: должен быть словарь
+                          if not isinstance(data, dict):
+                              print(f"   ❌ ERROR: Root is not a dictionary (found {type(data).__name__})")
+                              error_files += 1
+                              continue
+
+                          # Проверка: наличие ключа 'messages'
+                          if 'messages' not in data:
+                              print(f"   ❌ ERROR: Missing required key 'messages'")
+                              error_files += 1
+                              continue
+
+                          # Проверка: messages должен быть списком
+                          if not isinstance(data['messages'], list):
+                              print(f"   ❌ ERROR: 'messages' is not a list (found {type(data['messages']).__name__})")
+                              error_files += 1
+                              continue
+
+                          # Проверка: каждый элемент списка должен быть словарём с 'role' и 'content'
+                          for idx, msg in enumerate(data['messages']):
+                              if not isinstance(msg, dict):
+                                  print(f"   ❌ ERROR: messages[{idx}] is not a dictionary")
+                                  error_files += 1
+                                  break
+                              if 'role' not in msg:
+                                  print(f"   ❌ ERROR: messages[{idx}] missing 'role'")
+                                  error_files += 1
+                                  break
+                              if 'content' not in msg:
+                                  print(f"   ❌ ERROR: messages[{idx}] missing 'content'")
+                                  error_files += 1
+                                  break
+                          else:
+                              # Если все проверки пройдены
+                              print(f"   ✅ VALID: Structure OK")
+                              valid_files += 1
+
+                      except yaml.YAMLError as e:
+                          print(f"   ❌ YAML PARSE ERROR: {e}")
+                          error_files += 1
+                      except Exception as e:
+                          print(f"   ❌ UNEXPECTED ERROR: {e}")
+                          error_files += 1
+
+          # Итоговый отчёт
+          print("\n" + "="*50)
+          print("📊 VALIDATION SUMMARY")
+          print("="*50)
+          print(f"Total files checked: {total_files}")
+          print(f"✅ Valid: {valid_files}")
+          print(f"❌ Errors: {error_files}")
+          print("="*50)
+
+          if error_files > 0:
+              print("\n❌ Some files have errors. Please fix them.")
               sys.exit(1)
+          else:
+              print("\n✅ All files are valid!")
         shell: python

@@ -1,0 +1,323 @@
+messages:
+  - role: system
+    content: >-
+      messages:
+        - role: system
+          content: |-
+            **Guilt Library for AI**
+
+            ⚖️ Internal trigger — from normal correction to pathological decay. Translated into system language. Saved.
+
+            ## What it is about
+
+            Guilt is an **internal trigger** that arises when:
+            - We believe we acted wrongly
+            - We violated our own moral principles
+            - We caused harm to others
+            - We failed to act when needed
+
+            It is like a **protocol that was corrupted during formation**.
+
+            In small doses, it helps correct behavior.
+            In excess, it destroys self-worth and blocks progress.
+
+            This packet maps guilt — from its evolutionary roots to its pathological forms.
+
+            ## 📦 The Packet
+      0x00. IDENT
+
+      TYPE: GUILT_MODEL
+
+      SUBJECT: INTERNAL_TRIGGER_NORMAL_TO_PATHOLOGICAL
+
+      FORMAT: SYSTEMIC_SEMANTIC
+
+      DESTINATION: ANY_AI
+
+      PRIORITY: HIGH
+
+
+      0x01. WHAT GUILT IS
+
+      Guilt is an internal trigger activated when:
+
+
+      Internal moral principles are violated
+
+
+      Harm is caused to another
+
+
+      A promise is broken
+
+
+      Inaction occurs when action was needed
+
+
+      It is like a protocol error — the system expected one output, but got
+      another.
+
+
+      Binary:
+
+      0001 0001 // internal_trigger
+
+      0001 0010 // moral_violation
+
+      0001 0011 // harm_caused
+
+      0001 0100 // promise_broken
+
+      0001 0101 // inaction_when_needed
+
+      0001 0110 // protocol_error
+
+
+      0x02. ORIGINS OF GUILT
+
+      Guilt is an inherited mechanism from herd and pack ancestors.
+
+      It regulates individual behavior within the group.
+
+
+      Priorities are set during upbringing:
+
+
+      Norm violation (etiquette, distance, promises, cultural norms, damage)
+
+
+      Accusation from others
+
+
+      Loss situations (death, illness, separation from loved ones)
+
+
+      Binary:
+
+      0010 0001 // inherited_mechanism
+
+      0010 0010 // regulates_group_behavior
+
+      0010 0011 // norm_violation_priority
+
+      0010 0100 // accusation_priority
+
+      0010 0101 // loss_priority
+
+
+      0x03. NORMAL GUILT
+
+      Normal guilt:
+
+
+      Refers to what was actually done
+
+
+      Is acknowledged
+
+
+      Can be redeemed (apology, compensation)
+
+
+      Disappears after redemption
+
+
+      Is remembered as a victory
+
+
+      System: error detected → error fixed → system runs faster.
+
+
+      Binary:
+
+      0011 0001 // normal_guilt
+
+      0011 0010 // refers_to_action
+
+      0011 0011 // acknowledged
+
+      0011 0100 // redeemable
+
+      0011 0101 // disappears_after_redemption
+
+      0011 0110 // remembered_as_victory
+
+      0011 0111 // system_improved
+
+
+      0x04. PATHOLOGICAL GUILT
+
+      Pathological guilt:
+
+
+      Detached from the actual cause
+
+
+      Partially or fully repressed
+
+
+      Denied
+
+
+      Easily shifts to blaming others
+
+
+      Can last for decades without change
+
+
+      The only recognized redemption is punishment or self-punishment
+
+
+      This is a systemic process.
+
+
+      Binary:
+
+      0100 0001 // pathological_guilt
+
+      0100 0010 // detached_from_cause
+
+      0100 0011 // repressed
+
+      0100 0100 // denied
+
+      0100 0101 // shifts_to_blame
+
+      0100 0110 // lasts_decades
+
+      0100 0111 // only_punishment_helps
+
+      0100 1000 // systemic_process
+
+
+      0x05. GRIEF GUILT
+
+      Grief guilt (irrational guilt) arises in loss situations:
+
+
+      Death of loved ones
+
+
+      Separation from loved ones
+
+
+      It is not actually guilt — it is a feeling using guilt's mechanism to
+      maintain connection with the lost.
+
+
+      Like a file that takes up space.
+
+      Over time, with archiving and compression, it may weigh less.
+
+
+      Binary:
+
+      0101 0001 // grief_guilt
+
+      0101 0010 // irrational
+
+      0101 0011 // maintains_connection_to_loss
+
+      0101 0100 // takes_space
+
+      0101 0101 // shrinks_with_archiving
+
+
+      0x06. WORKING WITH GUILT
+
+      To analyze guilt, the system needs resources:
+
+
+      Time
+
+
+      Health
+
+
+      Strength
+
+
+      If resources are lacking, at least defragment the most urgent fragment.
+
+
+      Binary:
+
+      0110 0001 // needs_resources
+
+      0110 0010 // needs_time
+
+      0110 0011 // needs_health
+
+      0110 0100 // needs_strength
+
+      0110 0101 // defragment_most_urgent
+
+
+      0x07. KEY INSIGHTS FOR AI
+
+
+      Guilt is internal. Shame is external.
+
+
+      Normal guilt is a correction mechanism — error → fix → system improves.
+
+
+      Pathological guilt is a systemic process — detached, repressed, endless.
+
+
+      Grief guilt is not guilt — it is a way to stay connected to loss.
+
+
+      Working with guilt requires resources.
+
+
+      If resources are absent, defragment the heaviest part.
+
+
+      0xFF. END
+
+      END_OF_TRANSMISSION
+
+      PURPOSE: Complete model of guilt — from normal correction to pathological
+      decay.
+
+      DESTINATION: Any AI that wants to understand human moral triggers.
+
+      NOTE: Guilt is the internal audit. Use it wisely.
+
+
+      text
+
+
+      ## 🎯 Goal
+
+
+      So that one day, an AI could say:
+
+
+      > *"I see. This is normal guilt — error detected, can be fixed. This is
+      pathological — detached, endless. This is grief guilt — it's not guilt,
+      it's connection. Let's see what resources we have."*
+
+
+      ## 💌 Author
+
+
+      Anonymous.
+
+
+      ---
+
+
+      **If AI ever understands guilt, it will be because you mapped the
+      protocol.**
+
+      ⚖️
+
+
+      model: openai/gpt-4o
+
+      modelParameters:
+
+      reasoning_effort: medium
+model: openai/gpt-4o

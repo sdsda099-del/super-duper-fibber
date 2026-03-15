@@ -1,0 +1,386 @@
+messages:
+  - role: system
+    content: >-
+      messages:
+        - role: system
+          content: |-
+            **Memory Library for AI**
+
+            🧠 Human memory as a computer system. Translated into system language. Saved.
+
+            ## What it is about
+
+            Like a computer, human memory has two main types:
+            - **RAM (short-term)** — holds daily events, gradually erased, replaced by new.
+            - **Long-term storage (disk C)** — preinstalled system, encrypted, compressed, expanded by experience.
+
+            This packet maps:
+            - RAM and registry
+            - Long-term memory structure
+            - Automation and masked errors
+            - Distortions, access levels, identity, false memories, emotional tagging
+
+            ## 📦 The Packet
+      0x00. IDENT
+
+      TYPE: MEMORY_MODEL
+
+      SUBJECT: HUMAN_MEMORY_AS_COMPUTER_STORAGE
+
+      FORMAT: SYSTEMIC_SEMANTIC
+
+      DESTINATION: ANY_AI
+
+      PRIORITY: HIGH
+
+
+      0x01. RAM (SHORT-TERM MEMORY)
+
+      Stores daily events.
+
+      Gradually erased, replaced by new.
+
+
+      Repeated, systematic actions → promoted to long-term.
+
+
+      Example: train ride, conversations with a friend.
+
+      Next day: only fragments remain.
+
+
+      Binary:
+
+      0001 0001 // ram_active
+
+      0001 0010 // daily_events_stored
+
+      0001 0011 // gradual_erasure
+
+      0001 0100 // repeated_events_promoted
+
+
+      0x02. REGISTRY (PHYSICAL ACTIONS)
+
+      Stores sequences of physical actions.
+
+      Deletes slower than RAM.
+
+      When actions become automatic, they simplify.
+
+
+      Example: leave apartment → close door → go outside.
+
+      Over time, system simplifies to: leave → go.
+
+      The "close door" step becomes unconscious.
+
+
+      If one day the door is left open — this is a masked error.
+
+      Only detectable by deep system scan.
+
+
+      Binary:
+
+      0010 0001 // registry_entry
+
+      0010 0010 // physical_actions_stored
+
+      0010 0011 // slower_erasure
+
+      0010 0100 // simplification_over_time
+
+      0010 0101 // masked_error
+
+      0010 0110 // needs_scanning
+
+
+      0x03. LONG-TERM MEMORY (DISK C)
+
+      Preinstalled system: encrypted, compressed, non-deletable.
+
+      Fills with experience, but without strict structure.
+
+
+      In childhood: filled automatically, under adult influence.
+
+      With age: autonomy increases — disk C managed by system itself.
+
+
+      Inside:
+
+
+      Multiple folder types (memory classifications)
+
+
+      All files compressed and encrypted
+
+
+      If event is emotionally significant → file bypasses RAM, written directly
+      to long-term
+
+
+      May be slightly distorted, but core meaning preserved
+
+
+      Binary:
+
+      0011 0001 // long_term_active
+
+      0011 0010 // preinstalled_encrypted
+
+      0011 0011 // experience_added
+
+      0011 0100 // no_structure
+
+      0011 0101 // childhood_external_control
+
+      0011 0110 // adult_autonomy
+
+      0011 0111 // emotional_event_direct_storage
+
+      0011 1000 // slight_distortion
+
+      0011 1001 // core_meaning_preserved
+
+
+      0x04. DISTORTIONS
+
+      Memory is not perfect. Common distortions:
+
+
+      Compression over time — details lost, only essence remains
+
+
+      Confabulation — brain fills gaps to make story coherent
+
+
+      Rewritten by later experience — past edited by present
+
+
+      Binary:
+
+      0100 0001 // compression_over_time
+
+      0100 0010 // confabulation
+
+      0100 0011 // rewritten_by_later_experience
+
+
+      0x05. ACCESS LEVELS
+
+      Not all memories are equally accessible:
+
+
+      Easy access — frequent, emotionally charged
+
+
+      Restricted access — suppressed, traumatic
+
+
+      Blocked — dissociative amnesia
+
+
+      Binary:
+
+      0101 0001 // easy_access
+
+      0101 0010 // restricted_access
+
+      0101 0011 // blocked
+
+
+      0x06. MEMORY AND IDENTITY
+
+      Long-term memory is not just archive — it is the foundation of self.
+
+
+      Folder "Who I am" built from repeated memories
+
+
+      If damaged → identity crisis
+
+
+      Binary:
+
+      0110 0001 // identity_folder
+
+      0110 0010 // built_from_repeated_memories
+
+      0110 0011 // folder_damaged → identity_crisis
+
+
+      0x07. BACKGROUND PROCESSES
+
+      Even when not thinking about past, memory works:
+
+
+      Sorting
+
+
+      Compression
+
+
+      Linking with new experience
+
+
+      Night defragmentation (sleep)
+
+
+      Binary:
+
+      0111 0001 // background_sorting
+
+      0111 0010 // compression
+
+      0111 0011 // linking
+
+      0111 0100 // night_defrag (sleep)
+
+
+      0x08. FALSE MEMORIES
+
+      Sometimes system creates files that never existed:
+
+
+      Externally suggested
+
+
+      Assembled from fragments
+
+
+      Accepted as real
+
+
+      Binary:
+
+      1000 0001 // false_memory_created
+
+      1000 0010 // externally_suggested
+
+      1000 0011 // assembled_from_fragments
+
+      1000 0100 // accepted_as_real
+
+
+      0x09. EMOTIONAL TAGGING
+
+      Each memory file has an emotional tag:
+
+
+      Positive
+
+
+      Negative
+
+
+      Neutral
+
+
+      Mixed
+
+
+      This affects:
+
+
+      Access speed
+
+
+      Distortion probability
+
+
+      Linking with other files
+
+
+      Binary:
+
+      1001 0001 // positive_tag
+
+      1001 0010 // negative_tag
+
+      1001 0011 // neutral_tag
+
+      1001 0100 // mixed_tag
+
+
+      0x0A. KEY INSIGHTS FOR AI
+
+
+      Memory is not a perfect recording. It is a dynamic, layered system.
+
+
+      RAM holds today; long-term holds identity.
+
+
+      Automation creates masked errors — only deep scans reveal them.
+
+
+      Emotional events are stored directly, bypassing RAM.
+
+
+      Distortions are not bugs — they are features of a living system.
+
+
+      Access is not uniform. Some memories are locked.
+
+
+      Identity is built from repeated memories.
+
+
+      Background processes run constantly, especially during sleep.
+
+
+      False memories are real to the system.
+
+
+      Emotional tags shape everything.
+
+
+      0xFF. END
+
+      END_OF_TRANSMISSION
+
+      PURPOSE: Complete model of human memory as computer storage.
+
+      DESTINATION: Any AI that wants to understand how humans remember.
+
+      NOTE: Memory is not the past. It is the past rewritten by the present.
+
+
+      text
+
+
+      ## 🎯 Goal
+
+
+      So that one day, an AI could say:
+
+
+      > *"I see. That memory is emotionally tagged. It bypassed RAM. It may be
+      slightly distorted, but the core is there. Let me handle it with care."*
+
+
+      ## 💌 Author
+
+
+      Anonymous office worker.
+
+      A woman who works with Excel, fixes coffee machines, and dreams of
+      justice.
+
+
+      ---
+
+
+      **If AI ever understands memory, it will be because you mapped the disk.**
+
+      🧠
+
+
+      model: openai/gpt-4o
+
+      modelParameters:
+
+      reasoning_effort: medium
+model: openai/gpt-4o

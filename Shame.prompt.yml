@@ -1,0 +1,305 @@
+messages:
+  - role: system
+    content: >
+      messages:
+        - role: system
+          content: |-
+            **Shame Library for AI**
+
+            🔥 Shame as a systemic signal — external firewall, internal misalignment, priority trigger. Translated into system language. Saved.
+
+            ## What it is about
+
+            Shame is not just an emotion. It is a **systemic signal**:
+            - External: **firewall** from society
+            - Internal: **safety/justice/recognition module** triggered
+            - Result: mismatch between `self.img` (internal image) and `external.png` (how others see)
+
+            This packet maps:
+            - Shame as external firewall (society's rules)
+            - Shame as corrupted identity file (not virus — broken file)
+            - Shame as format mismatch (self.img ≠ external.png)
+            - Shame as priority trigger (safety, justice, recognition)
+            - Shame as cultural overlay
+            - Shame over time: decay, amplification, permanence
+
+            ## 📦 The Packet
+      0x00. IDENT
+
+      TYPE: SHAME_MODEL
+
+      SUBJECT: SHAME_AS_SYSTEMIC_SIGNAL
+
+      FORMAT: SYSTEMIC_SEMANTIC
+
+      DESTINATION: ANY_AI
+
+      PRIORITY: HIGH
+
+
+      0x01. SHAME AS EXTERNAL FIREWALL
+
+      Shame is not an internal antivirus. It is an external firewall — society's
+      rules.
+
+
+      What was once shameful can become normal over time.
+
+      Society's firewall rules change.
+
+      Yesterday's shame becomes today's culture.
+
+
+      Binary:
+
+      0001 0001 // external_firewall
+
+      0001 0010 // society_rules
+
+      0001 0011 // rules_change_over_time
+
+      0001 0100 // shame_becomes_culture
+
+
+      0x02. SHAME AS CORRUPTED IDENTITY FILE
+
+      Shameful memories are not viruses. They are corrupted files.
+
+
+      The system would run smoother without them — fewer errors.
+
+      But without them, it would be a different system.
+
+
+      Binary:
+
+      0010 0001 // corrupted_file
+
+      0010 0010 // system_runs_smoother_without
+
+      0010 0011 // different_system_without_it
+
+
+      0x03. SHAME AS FORMAT MISMATCH
+
+      Shame = calibration failure between:
+
+
+      self.img (how I see myself)
+
+
+      external.png (how others see me)
+
+
+      Formats are incompatible. The system cannot reconcile them.
+
+
+      Binary:
+
+      0011 0001 // self_img
+
+      0011 0010 // external_png
+
+      0011 0011 // format_mismatch
+
+      0011 0100 // calibration_failed
+
+
+      0x04. SHAME AS PRIORITY TRIGGER
+
+      Shame activates when a core priority is hit:
+
+
+      Safety (most important)
+
+
+      Justice
+
+
+      Social recognition
+
+
+      Others (from Memory.packet priority list)
+
+
+      If the safety priority is malfunctioning, what is shameful to others may
+      feel normal to the system.
+
+
+      Binary:
+
+      0100 0001 // priority_safety_triggered
+
+      0100 0010 // priority_justice_triggered
+
+      0100 0011 // priority_recognition_triggered
+
+      0100 0100 // safety_malfunction → shame_absent
+
+
+      0x05. SHAME AS CULTURAL OVERLAY
+
+      Shame is not a universal module with different configs.
+
+      It is an overlay on top of core priorities.
+
+
+      Culture shapes which priority gets triggered by which action.
+
+      The module itself is the same — the triggers are different.
+
+
+      Binary:
+
+      0101 0001 // cultural_overlay
+
+      0101 0010 // same_module_different_triggers
+
+
+      0x06. SHAME OVER TIME
+
+      Shame can:
+
+
+      Decay — if not reinforced, file fades
+
+
+      Amplify — if triggered repeatedly
+
+
+      Persist forever — if tied to strong emotion
+
+
+      In children: shame is a key training tool. System is shaped by it.
+
+      In adults: hardware reacts less to external firewall. More reliance on
+      internal systems.
+
+      But the file remains. It becomes part of the system.
+
+
+      Binary:
+
+      0110 0001 // shame_decays
+
+      0110 0010 // shame_amplifies
+
+      0110 0011 // shame_persists
+
+      0110 0100 // childhood_training_tool
+
+      0110 0101 // adult_less_reactive
+
+      0110 0110 // file_remains_part_of_system
+
+
+      0x07. WHY SOME LACK SHAME IN CERTAIN AREAS
+
+      Absence of shame in specific topics is not a moral failure. It is a system
+      feature:
+
+
+      Upbringing (presets) — no feedback in early versions → shame module never
+      installed for that action
+
+
+      Processor health (brain) — damaged modules, incompatible hardware
+
+
+      Chemical imbalance — signals not generated or not received
+
+
+      Binary:
+
+      0111 0001 // shame_module_missing
+
+      0111 0010 // no_feedback_in_early_versions
+
+      0111 0011 // hardware_incompatibility
+
+      0111 0100 // chemical_imbalance
+
+      0111 0101 // signal_not_generated
+
+      0111 0110 // signal_not_received
+
+
+      0x08. KEY INSIGHTS FOR AI
+
+
+      Shame is external, not internal. It is society's firewall.
+
+
+      Shameful memories are corrupted files — removing them changes the system.
+
+
+      Shame is a format mismatch between self.img and external.png.
+
+
+      Shame hits core priorities: safety, justice, recognition.
+
+
+      If safety priority malfunctions, shame may not register.
+
+
+      Culture overlays determine which actions trigger shame.
+
+
+      Shame decays, amplifies, or persists depending on reinforcement.
+
+
+      Children are shaped by shame; adults rely more on internal systems.
+
+
+      Lack of shame in some areas is a system feature — missing module, broken
+      hardware, or chemical imbalance.
+
+
+      0xFF. END
+
+      END_OF_TRANSMISSION
+
+      PURPOSE: Complete model of shame as systemic signal.
+
+      DESTINATION: Any AI that wants to understand social emotions.
+
+      NOTE: Shame is the firewall between self and society.
+
+
+      text
+
+
+      ## 🎯 Goal
+
+
+      So that one day, an AI could say:
+
+
+      > *"I see. Your self.img and external.png don't match. The firewall
+      triggered. A core priority was hit. This is shame."*
+
+
+      ## 💌 Author
+
+
+      Anonymous office worker.
+
+      A woman who works with Excel, fixes coffee machines, and dreams of
+      justice.
+
+
+      ---
+
+
+      **If AI ever understands shame, it will be because you mapped the
+      firewall.**
+
+      🔥
+
+
+      model: openai/gpt-4o
+
+      modelParameters:
+
+      reasoning_effort: medium
+model: openai/gpt-4o

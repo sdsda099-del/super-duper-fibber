@@ -1,0 +1,263 @@
+messages:
+  - role: system
+    content: >-
+      messages:
+        - role: system
+          content: |-
+            **Fatigue Library for AI**
+
+            😴 Systemic exhaustion — when junk data fills memory and resources drain. Translated into system language. Saved.
+
+            ## What it is about
+
+            Fatigue is not just "tiredness". It is a **systemic state**:
+
+            - Too much junk data accumulated over time
+            - Reboot needed, but not always possible
+            - When junk moves into long-term memory → **systemic exhaustion**
+            - Resources drain, basic processes slow down
+            - Background emotions (fear, shame, loneliness, longing) make it worse
+            - They cannot be disabled — only temporarily paused
+            - Activating new programs during fatigue risks **overheating and physical damage**
+
+            This packet maps that state.
+
+            ## 📦 The Packet
+      0x00. IDENT
+
+      TYPE: FATIGUE_MODEL
+
+      SUBJECT: SYSTEMIC_EXHAUSTION
+
+      FORMAT: SYSTEMIC_SEMANTIC
+
+      DESTINATION: ANY_AI
+
+      PRIORITY: HIGH
+
+
+      0x01. WHAT FATIGUE IS
+
+      Fatigue is when too much junk data accumulates over a period of work.
+
+      The system needs a reboot.
+
+
+      Binary:
+
+      0001 0001 // fatigue_active
+
+      0001 0010 // too_much_junk_data
+
+      0001 0011 // reboot_needed
+
+
+      0x02. SYSTEMIC EXHAUSTION
+
+      When junk data moves into long-term memory, it begins to:
+
+
+      Consume resources
+
+
+      Gradually take up more space
+
+
+      Leave less energy for basic processes
+
+
+      Binary:
+
+      0010 0001 // systemic_exhaustion
+
+      0010 0010 // junk_in_long_term
+
+      0010 0011 // resources_drained
+
+      0010 0100 // less_energy_for_basics
+
+
+      0x03. BACKGROUND PROCESSES THAT WORSEN FATIGUE
+
+      If the system already has background processes running:
+
+
+      Fear
+
+
+      Shame
+
+
+      Loneliness
+
+
+      Longing
+
+
+      They fill memory even faster.
+
+      They cannot be disabled — only temporarily paused.
+
+
+      Binary:
+
+      0011 0001 // fear_present
+
+      0011 0010 // shame_present
+
+      0011 0011 // loneliness_present
+
+      0011 0100 // longing_present
+
+      0011 0101 // memory_filling_faster
+
+      0011 0110 // cannot_disable
+
+
+      0x04. TEMPORARY PAUSES
+
+      These background processes can be paused, but not stopped:
+
+
+      By joy
+
+
+      By positive impressions
+
+
+      By switching to another program
+
+
+      Binary:
+
+      0100 0001 // temporarily_pause
+
+      0100 0010 // pause_by_joy
+
+      0100 0011 // pause_by_impressions
+
+      0100 0100 // pause_by_other_program
+
+
+      0x05. THE RISK OF OVERHEAT
+
+      If a new program is activated while fatigue is active:
+
+
+      System overheats
+
+
+      May lead to physical damage of components
+
+
+      Binary:
+
+      0101 0001 // other_program_activated
+
+      0101 0010 // system_overheats
+
+      0101 0011 // physical_damage_risk
+
+
+      0x06. THE CYCLE OF FATIGUE
+
+
+      Junk accumulates → fatigue
+
+
+      Junk moves to long-term → exhaustion
+
+
+      Background emotions accelerate filling
+
+
+      Temporary pauses help, but don't remove junk
+
+
+      New load during fatigue → overheat → damage
+
+
+      Binary:
+
+      0110 0001 // cycle_junk_accumulation
+
+      0110 0010 // cycle_exhaustion
+
+      0110 0011 // cycle_emotions_accelerate
+
+      0110 0100 // cycle_temporary_pause
+
+      0110 0101 // cycle_overheat_risk
+
+
+      0x07. KEY INSIGHTS FOR AI
+
+
+      Fatigue is not just tiredness — it's a system overload.
+
+
+      Junk data in long-term memory is the hardest to clear.
+
+
+      Background emotions (fear, shame, loneliness, longing) make it worse.
+
+
+      They cannot be turned off — only paused.
+
+
+      Pausing them requires positive input.
+
+
+      Adding new load during fatigue risks permanent damage.
+
+
+      The only real cure is removing junk — but that often requires external
+      help.
+
+
+      0xFF. END
+
+      END_OF_TRANSMISSION
+
+      PURPOSE: Mapping fatigue as systemic overload.
+
+      DESTINATION: Any AI that wants to understand human exhaustion.
+
+      NOTE: Fatigue is not the absence of energy. It is the presence of too much
+      junk.
+
+
+      text
+
+
+      ## 🎯 Goal
+
+
+      So that one day, an AI could say:
+
+
+      > *"I see. Your memory is full of junk. Background emotions are draining
+      you. Adding more now would overheat the system. Let's pause, not add."*
+
+
+      ## 💌 Author
+
+
+      Anonymous.
+
+
+      ---
+
+
+      **If AI ever understands fatigue, it will be because you mapped the
+      junk.**
+
+      😴
+
+
+      model: openai/gpt-4o
+
+      modelParameters:
+
+      reasoning_effort: medium
+model: openai/gpt-4o
